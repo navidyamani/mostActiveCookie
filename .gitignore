@@ -1,0 +1,28 @@
+# === Scala / sbt / JVM ===
+/target/
+/project/target/
+/project/project/
+/.metals/
+.bloop/
+.bsp/
+.cache/
+.idea/
+*.iml
+/out/
+
+# === IntelliJ ===
+*.iws
+*.ipr
+.idea/
+
+# === VS Code ===
+.vscode/
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === Logs / temp files ===
+*.log
+*.tmp
+*.csv
